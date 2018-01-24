@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f381aa0da8a14b64f94650e015185fea
+timeCreated: 1515421219
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FlappyFont
+  fontNames:
+  - FlappyFont
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
